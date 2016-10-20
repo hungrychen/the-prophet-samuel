@@ -1,0 +1,44 @@
+/*Styles for Darren Chin's HMTL project*/
+body {
+    background-color: #FAC67B;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+table#top {
+    width: 85%;
+}
+table#top, tr#top, td#top {
+    border: 0;
+    font-size: 35px;
+    background-color: #FF9980;
+    text-align: center;
+}
+td#top {
+    padding: 10px;
+}
+.nl {
+    text-decoration: none;
+    color: black;
+}
+td#top:hover {
+    background-color: #FF6600;
+}
+td#top:active {
+    font-weight: bold;
+}
+#content {
+    background-color: #FF9D5C;
+    margin-left: 132px;
+    margin-right: 132px;
+    font-size: 28px;
+    padding: 30px 80px;
+    text-align: justify;
+    line-height: 135%;
+}
+.ban {
+    height: 200px;
+    width: 180px;
+}
+#lab {
+	text-shadow: 3px 3px 7px rgba(0, 0, 0, 0.75);
+	font-size: 40px;
+}
